@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  rundeck:
+    image: rundeck/rundeck:latest
+    ports:
+      - 4440:4440
+    volumes:
+      - /home/umbrel/umbrel/my-configs/rundeck-config:/home/rundeck/server/data

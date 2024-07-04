@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: rundeck
+name: Rundeck
+tagline: Rundeck
+icon: https://svgshare.com/i/17uK.svg
+category: tools
+version: "1.0.0"
+port: 4440
+description: >-
+  Rundeck is an open-source automation platform for task scheduling, workflow orchestration, and system management. It provides a user-friendly web interface for creating, managing, and monitoring automated tasks, enabling users to run commands and scripts on remote servers.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/rundeck-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/rundeck-umbrel
+repo: https://github.com/pelinoleg/rundeck-umbrel
+support: https://github.com/pelinoleg/rundeck-umbrel/issues
+
+gallery:
+
+  - https://dustinrue.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-10-at-1.01.08-PM-1024x507.png
+  - https://docs.rundeck.com/docs/assets/img/fig0001.png
+
+
+releaseNotes: >-
+  Initial release of Rundeck on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
